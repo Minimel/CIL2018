@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
-"""Melanie Bernhardt - Laura Manduchi - Melanie Bernhardt
+"""Melanie Bernhardt - Laura Manduchi - Melanie Gaillochet
 
 This small script calculate the descriptive statistics on the score distribution 
 of the SCORED training dataset as mentioned in the report.
